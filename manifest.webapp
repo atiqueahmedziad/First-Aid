@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "name": "First Aid",
+  "launch_path": "/index.html",
+  "description": "First Aid is an app where you can get the First Aid tips and also you can see your near hospital around you.",
+  "icons": {
+    "32": "/logo-32.png",
+    "64": "/logo-64.png",
+    "128": "/logo-128.png",
+    "256": "/logo-256.png"
+  },
+  "developer": {
+    "name": "Atique Ahmed Ziad",
+    "url": "http://www.exteem.net"
+  },
+  "chrome": {
+    "navigation": true
+  },
+  "default_locale": "en",
+  "permissions": {
+    "geolocation": {
+      "description": "Marking out user location"
+    }
+  }
+}

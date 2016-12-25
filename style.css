@@ -1,0 +1,20 @@
+h2{
+  text-align: center;
+  color: #FF314D;
+  font-family: sans-serif;    
+}
+
+body
+{
+  font-size: 17px;
+  font-family: "Times New Roman", Georgia, Serif;
+  text-decoration: none;    
+  text-align: justify;
+  padding: inherit;    
+}
+
+li {
+list-style-type: square;
+ list-style-position: inside;
+ list-style-image: none;   
+}
